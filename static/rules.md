@@ -16,7 +16,7 @@ Näillä säännöillä takaamme kaikille yhtäläiset mahdollisuudet ja korosta
 
 Ajotavassa ja tuomariston tulkinnassa noudatetaan pitkälti samoja periaatteita kuin oikeassa kilpa-autoilussa. Kehotamme kuitenkin lukemaan nämä säännöt huolellisesti.
 
-Toisin kuin oikeassa kilvanajossa, painopiste ei ole turvallisuusriskeissä kuten oikeassa autourheilussa, vaan kilpailijoiden välisessä reilussa ja ennakoitavassa ajotavassa. Tästä syystä rangaistukset kohdistuvat erityisesti tämän laiminlyöntiin.
+Toisin kuin oikeassa autourheilussa, painopiste ei ole turvallisuusriskeissä vaan kilpailijoiden välisessä reilussa ja ennakoivassa ajotavassa. Tästä syystä rangaistukset kohdistuvat erityisesti niiden laiminlyöntiin.
 
 Yksittäisen kilpailun säännöt koostuvat kolmesta dokumentista:
 1. Yleiset säännöt  
@@ -29,9 +29,9 @@ Mikäli kilpailussa on tuomaristo, voidaan sääntöjä tarkentaa painavasta syy
 
 ## 3. Ajoetiketti
 
-Radalla ajaessa on huomioitava myös muiden kilpailijoiden ajaminen.
+Radalla ajaessa on huomioitava myös muut kuljettajat.
 
-Tahallinen törkeä estäminen tai vaaratilanteen aiheuttaminen ei ole sallittua.
+Toisen tahallinen törkeä estäminen tai vaaratilanteen aiheuttaminen ei ole sallittua.
 
 Ohitustilanteissa sijoituksen puolustaminen on sallittua tavallisin ratasäännöin (ks. kohta “ohittaminen”).
 
@@ -43,35 +43,28 @@ Kilpailijan on tunnistettava seuraavat radan osat:
 1. Rata-alue  
 2. Varikko-alue  
 
-Kilpailu suoritetaan rata-alueella.
-
-1. Rata-alue
-2. Varikko-alue
-
 - Vähintään kaksi rengasta on oltava rata-alueella  
 - Sisämutkan leikkaaminen on kielletty  
 - Ulostulossa voidaan sallia leveämpi linja kilpailukohtaisesti  
-- Kilpailu suoritetaan rata-alueella.
 
-Havaintokuvia viivan ylityksestä.
+Havaintokuvia ratarajojen ylityksestä.
 
 ![Ratarajat havainnekuva](./images/ratarajat.png)
 
-Mahdolliset poikkeukset ilmoitetaan kilpailijaohjeessa.
+Mahdolliset ratarajojen poikkeukset ilmoitetaan kilpailijaohjeessa.
 
 ---
 
 ## 5. Ohittaminen
 
-Kilpailun aikana kuljettaja saa käyttää koko radan leveyttä, kunnes ohitustilanne muodostuu.
+Kilpailun aikana kuljettaja saa käyttää koko radan leveyttä, ohitustilannetta lukuunottamatta.
 
-Edellä ajavan kuljettajan tulee sallia ohitus sääntöjen puitteissa, mutta hän saa puolustaa ajolinjaansa.
+Edellä ajavan kuljettajan tulee sallia ohitus sääntöjen puitteissa, mutta hänellä on myös oikeus puolustaa ajolinjaansa.
 
 Kiellettyä:
 - reaktiiviset suunnanmuutokset (mutkittelu)  
 - toisen kilpailijan estäminen / ulosajattamien
 - Linjan vaihtaminen jarrutuksen aikana
-
 - kiilaaminen / pommitus
 - muut sääntöjenvastaiset liikkeet  
 
@@ -106,8 +99,8 @@ Hänen tulee väistää muita kilpailijoita.
 Herrasmiessäännöllä tarkoitetaan oma-aloitteista reilua ja ennakoivaa ajamista sekä virheiden hyvittämistä.
 Kuljettajilta odotetaan:
 - ennakoivaa ajamista  
-- reilua toimintaa  
-- virheiden hyvittämistä ja anteeksipyyntöä heti tapahtuneen tai kilpailun jälkeen  
+- reilua toimintaa ja muiden kuljettajien kunnioittamista 
+- virheiden hyvittämistä ja anteeksipyyntöä heti virheen tai kilpailun jälkeen  
 
 Sijoituksen palauttaminen voidaan huomioida mahdollisen rangaistuksen lieventävänä tekijänä.
 Tämä on FiSUn tärkeimpiä sääntöjä. Kiistat jäävät radalle ja mahdolliset hampaankoloon jäävät asiat selvitetään viimeistään ennen seuraavaa kisaa. Tuomaristo auttaa kilpailun jälkeen epäselvissä tilanteissa.
