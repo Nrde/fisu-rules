@@ -235,7 +235,7 @@ Tuomaristo voi korottaa rangaistuspisteitä RP-haarukoiden ulkopuolelle, mikäli
 
 ### 9.5.1 Protestin jättäminen
 
-Protestit jätetään protestit.simu.fi-järjestelmän kautta. Protesti tulee jättää viimeistään vuorokauden kuluessa kilpailun päättymisestä. Myöhässä jätetyt protestit käsitellään harkinnan mukaan.
+Protestit jätetään protestit.simu.fi-järjestelmän kautta. Protesti tulee jättää vuorokauden kuluessa kilpailun päättymisestä tai sarjan tiedotuksen mukaiseen hetkeen mennessä. Myöhässä jätetyt protestit käsitellään harkinnan mukaan.
 
 Protesti voidaan jättää seuraavissa tilanteissa:
 - Epäily toisen kuljettajan rikkomuksesta  
@@ -245,7 +245,7 @@ Protesti voidaan jättää seuraavissa tilanteissa:
 
 ### 9.5.2 Tutkintaprosessi
 
-Tuomaristo tutkii tapauksen saatavilla olevan materiaalin perusteella (onboard-video, lähetys, telemetria).  
+Tuomaristo tutkii tapauksen saatavilla olevan materiaalin perusteella (replay tiedosto, onboard-video, lähetys, telemetria).  
 Päätös pyritään julkistamaan 24 tunnin kuluessa protestin jättämisestä.  
 Molempia osapuolia kuullaan ennen päätöstä tarvittaessa.  
 
@@ -255,7 +255,7 @@ Rangaistavalla kuljettajalla on oikeus vastaprotestiin, mikäli hän esittää u
 
 ### 9.5.3 Muutoksenhaku
 
-Päätöksestä voi valittaa sarjan johdolle 48 tunnin kuluessa päätöksen julkistamisesta protestit.simu.fi-järjestelmän kautta.  
+Päätöksestä voi valittaa sarjan johdolle 24 tunnin kuluessa päätöksen julkistamisesta protestit.simu.fi-järjestelmän kautta.  
 Muutoksenhaku ei lykkää rangaistuksen voimaantuloa, ellei sarjan johto toisin päätä.  
 Lopullinen päätös on sarjan johdon harkinnassa.
 
@@ -265,13 +265,13 @@ Lopullinen päätös on sarjan johdon harkinnassa.
 
 ### Esimerkki A – Ensimmäisen kierroksen yhteentörmäys
 
-| Vaihe | Kuvaus |
-|---|---|
-| Tapahtuma | Kuljettaja aiheuttaa ensimmäisellä kierroksella törmäyksen (2 × 6 RP, ensimmäisen kierroksen rike pisteet kaksinkertaisena) |
-| Kertyneet RP | 12 RP → ylittää 10 RP:n kynnyksen |
-| Seuraamus | 10–15 sarjapisteen menetys. Laskennalliset RP vähenevät 5:llä → 7 RP |
-| Seuraava kisa (2 RP virhe) | Laskennalliset RP: 7 + 2 = 9 RP → ei menetyksiä |
-| Sitä seuraava kisa (2 RP virhe) | Laskennalliset RP: 9 + 2 = 11 RP → 10–15 sp:n menetys. Laskennalliset RP: 6 RP |
+| Vaihe | Kuvaus                                                                                                                           |
+|---|----------------------------------------------------------------------------------------------------------------------------------|
+| Tapahtuma | Kuljettaja aiheuttaa ensimmäisellä kierroksella törmäyksen (2 × 6 RP, ensimmäisen kierroksen rangaistuspisteet kaksinkertaisena) |
+| Kertyneet RP | 12 RP → ylittää 10 RP:n kynnyksen                                                                                                |
+| Seuraamus | 10–15 sarjapisteen menetys. Laskennalliset RP vähenevät 5:llä → 7 RP                                                             |
+| Seuraava kisa (2 RP virhe) | Laskennalliset RP: 7 + 2 = 9 RP → ei sarjapiste menetyksiä                                                                       |
+| Sitä seuraava kisa (2 RP virhe) | Laskennalliset RP: 9 + 2 = 11 RP → 10–15 sp:n menetys. Laskennalliset RP: 6 RP                                                   |
 
 ---
 
@@ -293,7 +293,7 @@ Rangaistusjärjestelmä on suuntaa antava. Tuomaristolla on oikeus poiketa ohjea
 Harkinnan perusteita ovat:
 - Tapauksen vakavuus ja seuraukset rikotulle kuljettajalle  
 - Kuljettajan aiempi käytöshistoria kauden aikana  
-- Tilanteen olosuhteet (ensimmäinen kierros, märkä rata, safety car -tilanne jne.)  
+- Tilanteen olosuhteet (ensimmäinen kierros, märkä rata, safety car / keltaiset liput-tilanne jne.)  
 - Tahallisen tai harkitsemattoman toiminnan todennäköisyys  
 - Kuljettajan aktiivinen pyrkimys tilanteen selvittämiseen  
 - Sijoituksen palauttaminen – välitön ja selkeä palautus voidaan huomioida merkittävänä lieventävänä tekijänä  
@@ -303,6 +303,10 @@ Kaikkien päätösten on oltava johdonmukaisia, perusteltuja ja julkistettuja.
 *Tämä rangaistuskäytäntö on voimassa toistaiseksi ja sitä voidaan päivittää kauden aikana sarjan johdon päätöksellä. Kaikki muutokset ilmoitetaan kuljettajille vähintään 48 tuntia ennen seuraavaa kilpailua.*
 
 ## 10. Tekniset ongelmat
+
+Kilpailu voi päättyä ennenaikaisesti esimerkiksi palvelinongelman vuoksi, jolloin kaikki tai suuri osa kuljettajista ei voi jatkaa kilpailua.
+Toimenpiteet keskeytyneen kilpailun vuoksi.
+
 
 | Suoritettu | Toimenpide |
 |---|---|
