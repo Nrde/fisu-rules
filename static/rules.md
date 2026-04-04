@@ -195,6 +195,7 @@ Korotettua rangaistusta ei sovelleta tilanteissa, joissa rikottu kuljettaja on m
 Rikkomukset jaetaan kahteen pääluokkaan vakavuuden mukaan. Luokittelu on suuntaa antava, ja sama rikkomus voidaan arvioida eri vakavuusluokkaan tilanteesta riippuen, joiden puitteissa tuomaristo harkitsee jokaisen tapauksen yksilöllisesti.
 
 Tuomariston jäsenet päättävät jakamistaan pisteistä itsenäisesti, lopullisen pisteiden ollessa annettujen rangaistuspisteiden keskiarvo alaspäin pyöristettynä.
+Pisteiden jaossa otetaan huomioon kilpailun ajankohta. Ensimmäisen kierroksen rikkeistä rangaistuspisteet annetaan pääsääntöisesti kaksinkertaisena.
 
 ---
 
