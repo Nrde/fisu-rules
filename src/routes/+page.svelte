@@ -256,7 +256,7 @@
   .rule-title { font-family: var(--font-display); font-size: 1.875rem; font-weight: 400; letter-spacing: 0.06em; text-transform: uppercase; color: var(--text-primary); line-height: 1; }
 
   /* Prose - styles markdown output */
-  .prose :global(p) { color: var(--text-secondary); font-size: 0.9375rem; line-height: 1.75; margin-bottom: 1rem; }
+  .prose :global(p) { color: var(--text-secondary); font-size: 1.1rem; line-height: 1.75; margin-bottom: 1rem; }
   .prose :global(p:last-child) { margin-bottom: 0; }
 
   .prose :global(h3) {
@@ -354,7 +354,7 @@
     background: var(--bg-elevated);
     border-radius: var(--radius-lg);
     overflow: hidden;
-    border: 1px solid var(--border);
+    /*border: 1px solid var(--border);*/
     margin: 1rem 0;
   }
   .prose :global(thead tr) { background: var(--bg-card); border-bottom: 1px solid var(--border); }
