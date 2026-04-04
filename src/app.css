@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&family=DM+Mono:wght@400;500&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  /* Fonts */
+  --font-display: 'Bebas Neue', sans-serif;
+  --font-body: 'DM Sans', sans-serif;
+  --font-mono: 'DM Mono', monospace;
+
+  /* FISU-ish dark palette */
+  --bg-base: hsl(232 28% 8%);
+  --bg-surface: hsl(232 24% 11%);
+  --bg-elevated: hsl(231 22% 14%);
+  --bg-card: hsl(230 20% 17%);
+  --bg-hover: hsl(228 20% 21%);
+
+  /* Main accent colors from logo */
+  --accent: hsl(194 100% 45%);
+  --accent-strong: hsl(194 100% 52%);
+  --accent-soft: hsl(194 85% 60%);
+  --accent-muted: hsl(194 100% 45% / 0.14);
+  --accent-border: hsl(194 100% 55% / 0.3);
+
+  --brand-blue: hsl(248 100% 21%);
+  --brand-blue-soft: hsl(240 65% 58%);
+  --brand-blue-muted: hsl(248 100% 30% / 0.14);
+
+  /* Optional effect color if you need stronger emphasis */
+  --effect: hsl(48 100% 62%);
+  --effect-muted: hsl(48 100% 62% / 0.14);
+
+  /* Semantic colors */
+  --success: hsl(154 70% 48%);
+  --success-muted: hsl(154 70% 48% / 0.14);
+  --warning: hsl(35 95% 58%);
+  --warning-muted: hsl(35 95% 58% / 0.14);
+  --danger: hsl(2 85% 62%);
+  --danger-muted: hsl(2 85% 62% / 0.14);
+
+  /* Text */
+  --text-primary: hsl(220 25% 94%);
+  --text-secondary: hsl(226 16% 74%);
+  --text-muted: hsl(228 12% 58%);
+  --text-accent: var(--accent-soft);
+
+  /* Borders */
+  --border: hsl(0 0% 100% / 0.08);
+  --border-strong: hsl(0 0% 100% / 0.14);
+  --border-accent: var(--accent-border);
+
+  /* Radius */
+  --radius-sm: 0.375rem;
+  --radius-md: 0.625rem;
+  --radius-lg: 0.875rem;
+  --radius-xl: 1.25rem;
+
+  /* Layout */
+  --sidebar-w: 16rem;
+  --header-h: 4rem;
+  --content-max: 80rem;
+
+  /* Fluid type scale */
+  --step--1: clamp(0.92rem, 0.88rem + 0.15vw, 1rem);
+  --step-0: clamp(1.03rem, 0.98rem + 0.22vw, 1.125rem);
+  --step-1: clamp(1.18rem, 1.07rem + 0.5vw, 1.35rem);
+  --step-2: clamp(1.4rem, 1.18rem + 0.9vw, 1.8rem);
+  --step-3: clamp(1.8rem, 1.45rem + 1.4vw, 2.5rem);
+  --step-4: clamp(2.4rem, 1.8rem + 2.2vw, 3.5rem);
+
+  /* Spacing */
+  --space-1: clamp(0.25rem, 0.22rem + 0.12vw, 0.375rem);
+  --space-2: clamp(0.5rem, 0.44rem + 0.2vw, 0.75rem);
+  --space-3: clamp(0.75rem, 0.66rem + 0.3vw, 1rem);
+  --space-4: clamp(1rem, 0.88rem + 0.45vw, 1.5rem);
+  --space-5: clamp(1.5rem, 1.2rem + 0.8vw, 2.25rem);
+  --space-6: clamp(2rem, 1.6rem + 1.2vw, 3rem);
+
+  /* Effects */
+  --shadow-sm: 0 0.125rem 0.5rem hsl(0 0% 0% / 0.18);
+  --shadow-md: 0 0.5rem 1.5rem hsl(0 0% 0% / 0.24);
+  --transition-fast: 150ms ease;
+  --transition-base: 220ms ease;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 100%;
+  color-scheme: dark;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  font-family: var(--font-body);
+  font-size: var(--step-0);
+  line-height: 1.65;
+  letter-spacing: 0.01em;
+  color: var(--text-primary);
+  background:
+    radial-gradient(
+      circle at top,
+      hsl(194 100% 25% / 0.08),
+      transparent 30%
+    ),
+    linear-gradient(
+      180deg,
+      var(--bg-surface),
+      var(--bg-base)
+    );
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Basic text rhythm */
+p,
+ul,
+ol,
+dl,
+blockquote,
+pre,
+table {
+  margin-block: 0 1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-block: 0 0.6em;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  text-wrap: balance;
+}
+
+h1 {
+  font-family: var(--font-display);
+  font-size: var(--step-4);
+}
+
+h2 {
+  font-family: var(--font-display);
+  font-size: var(--step-3);
+}
+
+h3 {
+  font-size: var(--step-2);
+}
+
+h4 {
+  font-size: var(--step-1);
+}
+
+small {
+  font-size: var(--step--1);
+  color: var(--text-secondary);
+}
+
+code,
+pre,
+kbd,
+samp {
+  font-family: var(--font-mono);
+  font-size: 0.95em;
+}
+
+img,
+svg,
+video,
+canvas {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  color: var(--accent-soft);
+  text-decoration: none;
+  transition:
+    color var(--transition-fast),
+    opacity var(--transition-fast);
+}
+
+a:hover {
+  color: var(--accent-strong);
+}
+
+a:where(:not([class])) {
+  text-decoration: underline;
+  text-decoration-color: hsl(194 100% 60% / 0.4);
+  text-underline-offset: 0.18em;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+::selection {
+  background: var(--accent-muted);
+  color: var(--text-primary);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 0.5rem;
+  height: 0.5rem;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* Focus */
+:focus-visible {
+  outline: 0.15rem solid var(--accent-strong);
+  outline-offset: 0.15rem;
+}
+
+/* Highlight */
+mark {
+  background: var(--accent-muted);
+  color: var(--accent-soft);
+  padding-inline: 0.18em;
+  border-radius: 0.2em;
+}
+
+/* Common surfaces */
+.surface {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+}
+
+.surface:hover {
+  background: var(--bg-hover);
+  border-color: var(--border-strong);
+}
+
+/* Optional utility accents */
+.text-accent {
+  color: var(--accent-soft);
+}
+
+.text-brand {
+  color: hsl(230 90% 75%);
+}
+
+.border-accent {
+  border-color: var(--accent-border);
+}
+
+.glow-accent {
+  box-shadow:
+    0 0 0 1px var(--accent-border),
+    0 0 1.25rem hsl(194 100% 50% / 0.14);
+}
