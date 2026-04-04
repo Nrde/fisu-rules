@@ -1,8 +1,5 @@
-import { readFileSync } from 'fs';
-import { resolve } from 'path';
+import markdown from '../../static/rules.md?raw';
 
 export function load() {
-  const mdPath = resolve('static/rules.md');
-  const markdown = readFileSync(mdPath, 'utf-8');
   return { markdown };
 }
