@@ -1,8 +1,4 @@
-# SÄÄNNÖT
-
----
-
-## 1. Lyhennelmä
+## 1. Lyhyesti
 
 1. Kunnioita toista kilpailijaa.  
 2. Pidä kaksi rengasta radalla.  
