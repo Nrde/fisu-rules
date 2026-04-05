@@ -119,20 +119,19 @@ Kuljettajilta odotetaan:
 - virheiden hyvittämistä ja anteeksipyyntöä heti virheen tai kilpailun jälkeen
 
 Sijoituksen palauttaminen voidaan huomioida mahdollisen rangaistuksen lieventävänä tekijänä.
-Tämä on FiSUn tärkeimpiä sääntöjä. Kiistat jäävät radalle ja mahdolliset hampaankoloon jäävät asiat selvitetään
-viimeistään ennen seuraavaa kisaa. Tuomaristo auttaa kilpailun jälkeen epäselvissä tilanteissa.
+Herrasmiessääntö on FiSUn tärkeimpiä sääntöjä. Kiistat jäävät radalle ja mahdolliset hampaankoloon jäävät asiat selvitetään viimeistään ennen seuraavaa kisaa. Tuomaristo auttaa kilpailun jälkeen epäselvissä tilanteissa.
 
 ---
 
 ## 8. Protestit
 
-Protesti tulee jättää kilpailua seuraavana päivänä klo 20:00 mennessä.
+Protesti tulee jättää kilpailua seuraavana päivänä klo 20:00 mennessä tai muuna erikseen ilmoitettavana ajankohtana.
 
-Protesti jätetään kilpailukohtaisesti ilmoitetun linkin kautta.
+Protesti jätetään kilpailukohtaisesti ilmoitetun linkin kautta wep sovelluksessa.
 
 Rangaistukset ilmoitetaan samassa kanavassa kuin kilpailun ohjeet.
 
-Vastalause käsitellään kertaluonteisena vetoomuksena.
+Protestin vastalause tai oikaisupyyntö käsitellään kertaluonteisena vetoomuksena.
 
 ---
 
@@ -140,17 +139,11 @@ Vastalause käsitellään kertaluonteisena vetoomuksena.
 
 ## 9.1 Yleistä
 
-Tässä luvussa määritellään sarjan rangaistuskäytäntö, jonka tavoitteena on edistää reilua ja turvallista kilpailua sekä
-puuttua tehokkaasti toistuviin tai vakaviin rikkeisiin. Rangaistusjärjestelmä perustuu kumulatiivisiin
-rangaistuspisteisiin (RP) ja niiden vaikutukseen sarjapisteisiin.
+Tässä luvussa määritellään sarjan rangaistuskäytäntö, jonka tavoitteena on edistää reilua ja turvallista kilpailua sekä puuttua tehokkaasti toistuviin tai vakaviin rikkeisiin. Rangaistusjärjestelmä perustuu kumulatiivisiin rangaistuspisteisiin (RP) ja niiden vaikutukseen sarjapisteisiin (SP).
 
-Järjestelmä on suunniteltu siten, että yksittäisestä lievästä virheestä ei rangaista välittömästi sarjapistein, mutta
-toistuvat rikkeet tai yksittäiset vakavat teot johtavat sarjapistemenetyksiin. Kuljettajan parantaessa käytöstään
-laskennalliset rangaistuspisteet pienenevät, mikä keventää tulevia seuraamusriskejä.
+Järjestelmä on suunniteltu siten, että yksittäisestä lievästä virheestä ei rangaista välittömästi sarjapistein, mutta toistuvat rikkeet tai yksittäiset vakavat teot johtavat sarjapistemenetyksiin. Kuljettajan parantaessa käytöstään laskennalliset rangaistuspisteet pienenevät, mikä keventää tulevia seuraamusriskejä.
 
-Rikkomusten käsittelystä vastaa vähintään kolmihenkinen riippumaton tuomaristo. Tilanteissa, joissa rikkomus tai
-olosuhteet eivät suoraan kuulu sääntökirjan piiriin, tuomaristolla on harkintavalta soveltaa sääntöjä
-tarkoituksenmukaisesti.
+Rikkomusten käsittelystä vastaa vähintään kolmihenkinen riippumaton tuomaristo. Tilanteissa, joissa rikkomus tai olosuhteet eivät suoraan kuulu sääntökirjan piiriin, tuomaristolla on harkintavalta soveltaa sääntöjä tarkoituksenmukaisesti.
 
 ---
 
@@ -159,8 +152,7 @@ tarkoituksenmukaisesti.
 ### 9.2.1 Rangaistuspisteiden kertyminen
 
 Tuomaristo voi määrätä kuljettajalle rangaistuspisteitä kussakin kilpailussa todettujen rikkomusten perusteella.
-Rangaistuspisteet ovat kumulatiivisia koko kauden ajan, mutta niihin sovelletaan laskennallista vähennystä (ks. kohta
-9.2.3).
+Rangaistuspisteet ovat kumulatiivisia koko kauden ajan, mutta niihin sovelletaan laskennallista vähennystä (ks. kohta 9.2.3).
 
 ---
 
@@ -175,8 +167,7 @@ Rangaistuspisteet vaikuttavat sarjapisteisiin seuraavan asteikon mukaisesti:
 | 20 -24 RP         | 30 sarjapistettä                                            |
 | 25 RP tai enemmän | 30 sarjapistettä ja kilpailukielto seuraavaan osakilpailuun |
 
-Sarjapistemenetys suhteutetaan sarjakohtaisesti kilpailujen määrään ja maksimipisteisiin. Tuomaristo vahvistaa
-käytettävän suhteutuksen ennen kauden alkua.
+Sarjapistemenetys suhteutetaan sarjakohtaisesti kilpailujen määrään ja maksimipisteisiin. Tuomaristo vahvistaa käytettävän suhteutuksen ennen kauden alkua.
 
 Sarjapistemenetys toteutetaan sen kilpailun jälkeen, jonka seurauksena kynnys ylittyy.
 
@@ -184,20 +175,16 @@ Sarjapistemenetys toteutetaan sen kilpailun jälkeen, jonka seurauksena kynnys y
 
 ### 9.2.3 Laskennallinen vähennys rangaistuspisteisiin
 
-Järjestelmä on suunniteltu siten, että yksittäinen virhe ei johda välittömästi sarjapistemenetykseen, mutta toistuvat
-rikkomukset johtavat seuraamuksiin.
+Järjestelmä on suunniteltu siten, että yksittäinen virhe ei johda välittömästi sarjapistemenetykseen, mutta toistuvat rikkomukset johtavat seuraamuksiin.
 
-Kun kuljettajalle määrätään sarjapistemenetys, vähennetään laskennassa käytettäviä rangaistuspisteitä samanaikaisesti 5
-pisteellä.
+Kun kuljettajalle määrätään sarjapistemenetys, vähennetään laskennassa käytettäviä rangaistuspisteitä samanaikaisesti 5 pisteellä.
 
-Rankasta tai toistuvasta virheestä rangaistaan sarjapisteiden menetyksellä.  
-Yksittäinen lievä virhe ei välttämättä johda sarjapistemenetykseen.  
-Kuljettajan parantaessa käytöstään laskennalliset RP pienenevät, mikä pienentää tulevan sakotuksen riskiä.  
-Toistuvat pienetkin rikkeet johtavat kuitenkin lopulta sarjapistemenetyksiin, mikäli rangaistuspisteet kumuloituvat
-riittävästi.
+- Rankasta tai toistuvasta virheestä rangaistaan sarjapisteiden menetyksellä.
+- Yksittäinen lievä virhe ei välttämättä johda sarjapistemenetykseen.  
+- Kuljettajan parantaessa käytöstään laskennalliset RP pienenevät, mikä pienentää tulevan sakotuksen riskiä.  
+- Toistuvat pienetkin rikkeet johtavat kuitenkin lopulta sarjapistemenetyksiin, mikäli rangaistuspisteet kumuloituvat riittävästi.
 
-Laskennallinen vähennys tehdään ainoastaan sarjapistemenetyksen yhteydessä – ei automaattisesti ajan kulumisen
-perusteella, ellei erikseen toisin päätetä.
+Laskennallinen vähennys tehdään ainoastaan sarjapistemenetyksen yhteydessä – ei automaattisesti ajan kulumisen perusteella, ellei erikseen toisin päätetä.
 
 ---
 
@@ -206,12 +193,10 @@ perusteella, ellei erikseen toisin päätetä.
 Jos tuomaristo toteaa, että kuljettaja on kärsinyt merkittävää haittaa toisen kuljettajan rikkomuksen seurauksena,
 huomioidaan tämä rangaistuksen mitoituksessa. Tuomaristolla on käytössään seuraavat keinot:
 
-- Sarjapistemenetyksen korottaminen – rikkomuksen vakavuus ja sen vaikutus rikotun kuljettajan kilpailuasemaan otetaan
-  huomioon kokonaisharkinnassa
-- Aikasanktio tai sijoituksen menetys – mikäli kuljettaja on rikkonut sääntöjä tahallisesti estääkseen kanssakilpailijaa
-  saavuttamasta tarvittavaa sijoitusta tietyssä kilpailussa, voidaan rikkovaa kuljettajaa rangaista myös aikasakolla tai
-  kisasijoituksen menettämisellä
-
+#### Sarjapistemenetyksen korottaminen 
+rikkomuksen vakavuus ja sen vaikutus rikotun kuljettajan kilpailuasemaan otetaan huomioon kokonaisharkinnassa
+#### Aikasanktio tai sijoituksen menetys
+mikäli kuljettaja on rikkonut sääntöjä tahallisesti estääkseen kanssakilpailijaa saavuttamasta tarvittavaa sijoitusta tietyssä kilpailussa, voidaan rikkovaa kuljettajaa rangaista myös aikasakolla tai kisasijoituksen menettämisellä
 Kaikki toimenpiteet perustuvat tuomariston kokonaisharkintaan.
 
 Korotettua rangaistusta ei sovelleta tilanteissa, joissa rikottu kuljettaja on myötävaikuttanut onnettomuuteen.
@@ -220,21 +205,16 @@ Korotettua rangaistusta ei sovelleta tilanteissa, joissa rikottu kuljettaja on m
 
 ## 9.4 Rikkomusten luokittelu ja pistetaulukko
 
-Rikkomukset jaetaan kahteen pääluokkaan vakavuuden mukaan. Luokittelu on suuntaa antava, ja sama rikkomus voidaan
-arvioida eri vakavuusluokkaan tilanteesta riippuen, joiden puitteissa tuomaristo harkitsee jokaisen tapauksen
-yksilöllisesti.
+Rikkomukset jaetaan kahteen pääluokkaan vakavuuden mukaan. Luokittelu on suuntaa antava, ja sama rikkomus voidaan arvioida eri vakavuusluokkaan tilanteesta riippuen, joiden puitteissa tuomaristo harkitsee jokaisen tapauksen yksilöllisesti.
 
-Tuomariston jäsenet päättävät jakamistaan pisteistä itsenäisesti, lopullisen pisteiden ollessa annettujen
-rangaistuspisteiden keskiarvo alaspäin pyöristettynä.
-Pisteiden jaossa otetaan huomioon kilpailun ajankohta. Ensimmäisen kierroksen rikkeistä rangaistuspisteet annetaan
-pääsääntöisesti kaksinkertaisena.
+Tuomariston jäsenet päättävät jakamistaan pisteistä itsenäisesti, lopullisen pisteiden ollessa annettujen rangaistuspisteiden keskiarvo alaspäin pyöristettynä.
+Pisteiden jaossa otetaan huomioon kilpailun ajankohta. Ensimmäisen kierroksen rikkeistä rangaistuspisteet annetaan pääsääntöisesti kaksinkertaisena.
 
 ---
 
 ### 9.4.1 Varomaton ajo (1–5 rangaistuspistettä)
 
-Varomattomaksi ajoksi katsotaan tilanteet, joissa kuljettaja on toiminut huolimattomasti tai arvioinut tilanteen väärin
-ilman selkeää tahallisen toiminnan merkkejä.
+Varomattomaksi ajoksi katsotaan tilanteet, joissa kuljettaja on toiminut huolimattomasti tai arvioinut tilanteen väärin ilman selkeää tahallisen toiminnan merkkejä.
 
 | Rikkomus                                                | RP-haarukka (ohjeellinen) |
 |---------------------------------------------------------|---------------------------|
@@ -249,8 +229,7 @@ ilman selkeää tahallisen toiminnan merkkejä.
 
 ### 9.4.2 Aggressiivinen ajo (6–10 rangaistuspistettä)
 
-Aggressiiviseksi ajoksi katsotaan tilanteet, joissa kuljettaja on toiminut harkitsemattomasti tai selkeästi muiden
-kustannuksella. Tähän luokkaan kuuluvat myös toistuvat varomattoman ajon rikkeet.
+Aggressiiviseksi ajoksi katsotaan tilanteet, joissa kuljettaja on toiminut harkitsemattomasti tai selkeästi muiden kustannuksella. Tähän luokkaan kuuluvat myös toistuvat varomattoman ajon rikkeet.
 
 | Rikkomus                                              | RP-haarukka (ohjeellinen) |
 |-------------------------------------------------------|---------------------------|
@@ -261,9 +240,7 @@ kustannuksella. Tähän luokkaan kuuluvat myös toistuvat varomattoman ajon rikk
 | Keltaisten lippujen huomiotta jättäminen / never lift | 6–9                       |
 | Ratarajojen ulkopuolelta ohittaminen                  | 6–8                       |
 
-Tuomaristo voi korottaa rangaistuspisteitä RP-haarukoiden ulkopuolelle, mikäli rikkomus on selkeästi tahallinen, toistuu
-kauden aikana tai aiheuttaa poikkeuksellisen vakavan onnettomuuden. Vastaavasti pisteitä voidaan alentaa, jos asiaan
-liittyy lieventäviä seikkoja kuten sijoituksen takaisinanto.
+Tuomaristo voi korottaa rangaistuspisteitä RP-haarukoiden ulkopuolelle, mikäli rikkomus on selkeästi tahallinen, toistuu kauden aikana tai aiheuttaa poikkeuksellisen vakavan onnettomuuden. Vastaavasti pisteitä voidaan alentaa, jos asiaan liittyy lieventäviä seikkoja kuten sijoituksen takaisinanto.
 
 ---
 
@@ -271,9 +248,7 @@ liittyy lieventäviä seikkoja kuten sijoituksen takaisinanto.
 
 ### 9.5.1 Protestin jättäminen
 
-Protestit jätetään protestit.simu.fi-järjestelmän kautta. Protesti tulee jättää vuorokauden kuluessa kilpailun
-päättymisestä tai sarjan tiedotuksen mukaiseen hetkeen mennessä. Myöhässä jätetyt protestit käsitellään harkinnan
-mukaan.
+Protestit jätetään protestit.simu.fi-järjestelmän kautta. Protesti tulee jättää vuorokauden kuluessa kilpailun päättymisestä tai sarjan tiedotuksen mukaiseen hetkeen mennessä. Myöhässä jätetyt protestit käsitellään harkinnan mukaan.
 
 Protesti voidaan jättää seuraavissa tilanteissa:
 
@@ -284,20 +259,17 @@ Protesti voidaan jättää seuraavissa tilanteissa:
 
 ### 9.5.2 Tutkintaprosessi
 
-Tuomaristo tutkii tapauksen saatavilla olevan materiaalin perusteella (replay tiedosto, onboard-video, lähetys,
-telemetria).  
+Tuomaristo tutkii tapauksen saatavilla olevan materiaalin perusteella (replay tiedosto, onboard-video, lähetys, telemetria).  
 Päätös pyritään julkistamaan 24 tunnin kuluessa protestin jättämisestä.  
-Molempia osapuolia kuullaan ennen päätöstä tarvittaessa.
+Molempia osapuolia kuullaan tarvittaessa ennen päätöksen julkistamista.
 
-Rangaistavalla kuljettajalla on oikeus vastaprotestiin, mikäli hän esittää uutta olennaista tietoa, jota tuomaristo ei
-ole voinut huomioida alkuperäisessä käsittelyssä.
+Rangaistavalla kuljettajalla on oikeus vastaprotestiin, mikäli hän esittää uutta olennaista tietoa, jota tuomaristo ei ole voinut huomioida alkuperäisessä käsittelyssä.
 
 ---
 
 ### 9.5.3 Muutoksenhaku
 
-Päätöksestä voi valittaa sarjan johdolle 24 tunnin kuluessa päätöksen julkistamisesta protestit.simu.fi-järjestelmän
-kautta.  
+Päätöksestä voi valittaa sarjan johdolle 24 tunnin kuluessa päätöksen julkistamisesta protestit.simu.fi-järjestelmän kautta.  
 Muutoksenhaku ei lykkää rangaistuksen voimaantuloa, ellei sarjan johto toisin päätä.  
 Lopullinen päätös on sarjan johdon harkinnassa.
 
@@ -330,8 +302,7 @@ Lopullinen päätös on sarjan johdon harkinnassa.
 
 ## 9.7 Yleiset periaatteet ja tuomariston harkintavalta
 
-Rangaistusjärjestelmä on suuntaa antava. Tuomaristolla on oikeus poiketa ohjearvoista, mikäli tilanteen erityispiirteet
-sitä vaativat.
+Rangaistusjärjestelmä on suuntaa antava. Tuomaristolla on oikeus poiketa ohjearvoista tai pistemenetyksistä, mikäli tilanteen erityispiirteet sitä vaativat.
 
 Harkinnan perusteita ovat:
 
@@ -346,11 +317,11 @@ Harkinnan perusteita ovat:
 Kaikkien päätösten on oltava johdonmukaisia, perusteltuja ja julkistettuja.
 
 *Tämä rangaistuskäytäntö on voimassa toistaiseksi ja sitä voidaan päivittää kauden aikana sarjan johdon päätöksellä.
-Kaikki muutokset ilmoitetaan kuljettajille vähintään 48 tuntia ennen seuraavaa kilpailua.*
+Mahdollisista muutoksista ilmoitetaan kuljettajille vähintään 48 tuntia ennen seuraavaa kilpailua.*
 
 ## 10. Varikolle hyppääminen / Teleport to pits sääntö
 
-varikolle saa hypätä harjoitus ja aika-ajossa vapaasti ilman seuraamuksia. Ota mahdollisuuksien mukaan kilpailulähetys huomioon ja pysäytä auto radan sivuun ennen teleporttausta.
+varikolle saa hypätä harjoituksissa ja aika-ajossa vapaasti ilman seuraamuksia. Ota mahdollisuuksien mukaan kilpailulähetys huomioon ja pysäytä auto radan sivuun ennen teleporttausta.
 
 Kilpailulähdössä varikolle hyppääminen tarkoittaa kilpailun pisteiden menetystä (DNF). Poikkeuksena lähtöruudukosta varikolle siirtyminen tai pelin virhetilanne mitkä käsitellään tapauskohtaisesti.
 
@@ -359,8 +330,7 @@ Kilpailun jatkaminen varikolle hyppäämisen jälkeen ei ole kiellettyä, mutta 
 
 ## 11. Tekniset ongelmat
 
-Kilpailu tai aika-ajo voi päättyä ennenaikaisesti esimerkiksi palvelinongelman vuoksi, jolloin kaikki tai suuri osa kuljettajista ei
-voi jatkaa kilpailua.
+Kilpailu tai aika-ajo voi päättyä ennenaikaisesti esimerkiksi palvelinongelman vuoksi, jolloin kaikki tai suuri osa kuljettajista ei voi jatkaa kilpailua.
 Toimenpiteet keskeytyneen session vuoksi.
 
 | Suoritettu | Toimenpide                                                                                                         |
