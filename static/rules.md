@@ -11,17 +11,13 @@
 
 ## 2. Yleistä
 
-Simulaattorikilpailu on kilpailemista siinä missä mikä tahansa urheilumuoto. Tavoitteena on suorittaa kilpailumatka
-nopeimmin tai edetä annetussa kilpailuajassa mahdollisimman pitkä matka. Kilpailun tavoite voi tarkentua
-kilpailukutsussa.
+Simulaattorikilpailu on kilpailemista siinä missä mikä tahansa urheilumuoto. Tavoitteena on suorittaa kilpailumatka nopeimmin tai edetä annetussa kilpailuajassa mahdollisimman pitkä matka. Kilpailun tavoite voi tarkentua kilpailukutsussa.
 
 Näillä säännöillä takaamme kaikille yhtäläiset mahdollisuudet ja korostamme reilua kilvanajoa.
 
-Ajotavassa ja tuomariston tulkinnassa noudatetaan pitkälti samoja periaatteita kuin oikeassa kilpa-autoilussa. Kehotamme
-kuitenkin lukemaan nämä säännöt huolellisesti.
+Ajotavassa ja tuomariston tulkinnassa noudatetaan pitkälti samoja periaatteita kuin oikeassa kilpa-autoilussa. Kehotamme kuitenkin lukemaan nämä säännöt huolellisesti.
 
-Toisin kuin oikeassa autourheilussa, painopiste ei ole turvallisuusriskeissä vaan kilpailijoiden välisessä reilussa ja
-ennakoivassa ajotavassa. Tästä syystä rangaistukset kohdistuvat erityisesti niiden laiminlyöntiin.
+Toisin kuin oikeassa autourheilussa, painopiste ei ole turvallisuusriskeissä vaan kilpailijoiden välisessä reilussa ja ennakoivassa ajotavassa. Tästä syystä rangaistukset kohdistuvat erityisesti niiden laiminlyöntiin.
 
 Yksittäisen kilpailun säännöt koostuvat kolmesta dokumentista:
 
@@ -29,8 +25,8 @@ Yksittäisen kilpailun säännöt koostuvat kolmesta dokumentista:
 2. Kilpailijaohje (valinnainen)
 3. Rataesittely (valinnainen)
 
-Mikäli kilpailussa on tuomaristo, voidaan sääntöjä tarkentaa painavasta syystä viimeistään ennen kilpailulähtöä. Seuraa
-simulaattorin chattia tai sarjan tiedotusta odotusaikoina.
+Mikäli kilpailussa on tuomaristo, voidaan sääntöjä tarkentaa painavasta syystä viimeistään ennen kilpailulähtöä.
+Seuraa simulaattorin chattia tai sarjan tiedotusta odotusaikoina.
 
 ---
 
@@ -190,12 +186,11 @@ Laskennallinen vähennys tehdään ainoastaan sarjapistemenetyksen yhteydessä �
 
 ## 9.3 Rangaistukset rikotun kuljettajan hyväksi
 
-Jos tuomaristo toteaa, että kuljettaja on kärsinyt merkittävää haittaa toisen kuljettajan rikkomuksen seurauksena,
-huomioidaan tämä rangaistuksen mitoituksessa. Tuomaristolla on käytössään seuraavat keinot:
+Jos tuomaristo toteaa, että kuljettaja on kärsinyt merkittävää haittaa toisen kuljettajan rikkomuksen seurauksena, huomioidaan tämä rangaistuksen mitoituksessa. Tuomaristolla on käytössään seuraavat keinot:
 
-#### Sarjapistemenetyksen korottaminen 
+### Sarjapistemenetyksen korottaminen 
 rikkomuksen vakavuus ja sen vaikutus rikotun kuljettajan kilpailuasemaan otetaan huomioon kokonaisharkinnassa
-#### Aikasanktio tai sijoituksen menetys
+### Aikasanktio tai sijoituksen menetys
 mikäli kuljettaja on rikkonut sääntöjä tahallisesti estääkseen kanssakilpailijaa saavuttamasta tarvittavaa sijoitusta tietyssä kilpailussa, voidaan rikkovaa kuljettajaa rangaista myös aikasakolla tai kisasijoituksen menettämisellä
 Kaikki toimenpiteet perustuvat tuomariston kokonaisharkintaan.
 
