@@ -65,7 +65,7 @@ Kilpailun aikana kuljettaja saa käyttää koko radan leveyttä, ohitustilannett
 
 Edellä ajavan kuljettajan tulee sallia ohitus sääntöjen puitteissa, mutta hänellä on myös oikeus puolustaa ajolinjaansa.
 
-Kuljettajan katsotaan olevan rinnalla kun ohittavan auton eturenkaan akseli on saavuttanut ohitettavan auton takarenkaan akselin. Tällöin ohitettavan kuljetajan on pidettävä ajolinja sellaisena että ohittava auto mahtuu radalle. Edellä ajava auto saa kuitenkin valita ajolinjansa edellisen rajoituksen puitteissa.
+Kuljettajan katsotaan olevan rinnalla kun ohittavan auton eturenkaan akseli on saavuttanut ohitettavan auton takarenkaan akselin. Tällöin ohitettavan kuljettajan on pidettävä ajolinja sellaisena että ohittava auto mahtuu radalle. Edellä ajava auto saa kuitenkin valita ajolinjansa edellisen rajoituksen puitteissa.
 
 Mahdollisen törmäyksen syyllinen päätetään jätetyn tilan perusteella.
 
