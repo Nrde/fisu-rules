@@ -123,7 +123,7 @@ Herrasmiessääntö on FiSUn tärkeimpiä sääntöjä. Kiistat jäävät radall
 
 Protesti tulee jättää kilpailua seuraavana päivänä klo 20:00 mennessä tai muuna erikseen ilmoitettavana ajankohtana.
 
-Protesti jätetään kilpailukohtaisesti ilmoitetun linkin kautta wep sovelluksessa.
+Protesti jätetään kilpailukohtaisen linkin kautta verkkosovelluksessa.
 
 Rangaistukset ilmoitetaan samassa kanavassa kuin kilpailun ohjeet.
 
