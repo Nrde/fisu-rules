@@ -116,7 +116,6 @@ Kilpailijat saavat käyttää vain kilparataa ohituksen aikana.
 Ajolinjan muutos ei saa olla äkillinen tai vaaratilanteen aiheuttava.
 Ajolinjan peittäminen/valinta on tehtävä ennen jarrutusta.
 Ajolinjan muuttaminen puolustustilanteessa on sallittu kerran suoralla.
----
 
 ## 6. Lippusäännöt
 
