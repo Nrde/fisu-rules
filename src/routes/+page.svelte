@@ -249,9 +249,12 @@
 
   /* Rule sections */
   .sections { padding-bottom: 5rem; }
-  .rule-section { padding: 3rem 0; border-bottom: 1px solid var(--border); scroll-margin-top: 1.5rem; }
+  .rule-section {
+      padding: 1.5rem 0 1rem 0;
+      border-bottom: 1px solid var(--border);
+      scroll-margin-top: 1.5rem; }
   .rule-section:last-child { border-bottom: none; }
-  .rule-header { display: flex; align-items: baseline; gap: 1rem; margin-bottom: 1.75rem; }
+  .rule-header { display: flex; align-items: baseline; gap: 1rem; }
   .rule-number { font-family: var(--font-display); font-size: 3.5rem; line-height: 1; color: var(--accent); letter-spacing: 0.02em; flex-shrink: 0; }
   .rule-title { font-family: var(--font-display); font-size: 1.875rem; font-weight: 400; letter-spacing: 0.06em; text-transform: uppercase; color: var(--text-primary); line-height: 1; }
 
@@ -296,11 +299,11 @@
     align-items: flex-start;
     font-size: 0.9375rem;
     color: var(--text-secondary);
-    padding: 9px 14px;
-    background: var(--bg-elevated);
-    border-radius: var(--radius-md);
+    padding: 6px 14px;
+    /*border-radius: var(--radius-md);
     border-left: 2px solid var(--border-strong);
-    line-height: 1.5;
+    background: var(--bg-elevated);*/
+    /*line-height: 1.1;*/
   }
 
   .prose :global(ul > li::before) {
@@ -311,7 +314,7 @@
     border-radius: 50%;
     background: var(--accent);
     flex-shrink: 0;
-    margin-top: 7px;
+    margin-top: 10px;
   }
 
   .prose :global(ol) { counter-reset: prose-ol; }
