@@ -28,8 +28,6 @@ Yksittäisen kilpailun säännöt koostuvat kolmesta dokumentista:
 Mikäli kilpailussa on tuomaristo, voidaan sääntöjä tarkentaa painavasta syystä viimeistään ennen kilpailulähtöä.
 Seuraa simulaattorin chattia tai sarjan tiedotusta odotusaikoina.
 
----
-
 ## 3. Ajoetiketti
 
 Radalla ajaessa on huomioitava myös muut kuljettajat.
@@ -58,8 +56,6 @@ Kiellettyä:
 - muu toiminta, joka aiheuttaa vaaratilanteen
 
 Ensimmäinen kierros katsotaan erityistilanteeksi, jossa kuljettajilta edellytetään korostettua varovaisuutta.
-
----
 
 ## 4. Rata ja sen osat
 
@@ -91,8 +87,6 @@ Kilparadalla ajaminen ajosuuntaa vastaan on kielletty.
 Varikolta radalle palaavan kuljettajan tulee noudattaa erityistä varovaisuutta. Väistämisvelvollisuus on aina radalle palaavalla kuljettajalla.
 
 Varikolle tullessa ja sieltä poistuttaessa radan ja varikkoalueen erottavia viivoja ei saa ylittää.
-
----
 
 ## 5. Ohittaminen
 
@@ -138,8 +132,6 @@ Keltaisen lipun alueella saavutettu merkittävä hyöty voidaan määrätä pala
 Kuljettaja on poistettu kilpailusta.  
 Hänen tulee väistää muita kilpailijoita.
 
----
-
 ## 7. Herrasmiessääntö
 
 Herrasmiessäännöllä tarkoitetaan oma-aloitteista reilua ja ennakoivaa ajamista sekä virheiden hyvittämistä.
@@ -152,8 +144,6 @@ Kuljettajilta odotetaan:
 Sijoituksen palauttaminen voidaan huomioida mahdollisen rangaistuksen lieventävänä tekijänä tai rangaistus voidaan jättää määräämättä.
 Herrasmiessääntö on FiSUn tärkeimpiä sääntöjä. Kiistat jäävät radalle ja mahdolliset hampaankoloon jäävät asiat selvitetään viimeistään ennen seuraavaa kisaa. Tuomaristo auttaa kilpailun jälkeen epäselvissä tilanteissa.
 
----
-
 ## 8. Protestit
 
 Protesti tulee jättää kilpailua seuraavana päivänä klo 20:00 mennessä tai muuna erikseen ilmoitettavana ajankohtana.
@@ -164,8 +154,6 @@ Rangaistukset ilmoitetaan samassa kanavassa kuin kilpailun ohjeet.
 
 Protestin vastalause tai oikaisupyyntö käsitellään kertaluonteisena vetoomuksena.
 
----
-
 ## 9. Rangaistuskäytäntö
 
 ## 9.1 Yleistä
@@ -175,8 +163,6 @@ Tässä luvussa määritellään sarjan rangaistuskäytäntö, jonka tavoitteena
 Järjestelmä on suunniteltu siten, että yksittäisestä lievästä virheestä ei rangaista välittömästi sarjapistein, mutta toistuvat rikkeet tai yksittäiset vakavat teot johtavat sarjapistemenetyksiin. Kuljettajan parantaessa käytöstään laskennalliset rangaistuspisteet pienenevät, mikä keventää tulevia seuraamusriskejä.
 
 Rikkomusten käsittelystä vastaa vähintään kolmihenkinen riippumaton tuomaristo. Tilanteissa, joissa rikkomus tai olosuhteet eivät suoraan kuulu sääntökirjan piiriin, tuomaristolla on harkintavalta soveltaa sääntöjä tarkoituksenmukaisesti.
-
----
 
 ## 9.2 Rangaistuspistejärjestelmä (RP)
 
@@ -206,8 +192,6 @@ Sarjapistemenetys toteutetaan sen kilpailun jälkeen, jonka seurauksena kynnys y
 
 ### 9.2.3 Laskennallinen vähennys rangaistuspisteisiin
 
-Järjestelmä on suunniteltu siten, että yksittäinen virhe ei johda välittömästi sarjapistemenetykseen, mutta toistuvat rikkomukset johtavat seuraamuksiin.
-
 Kun kuljettajalle määrätään sarjapistemenetys, vähennetään laskennassa käytettäviä rangaistuspisteitä samanaikaisesti 5 pisteellä.
 
 - Rankasta tai toistuvasta virheestä rangaistaan sarjapisteiden menetyksellä.
@@ -217,8 +201,6 @@ Kun kuljettajalle määrätään sarjapistemenetys, vähennetään laskennassa k
 
 Laskennallinen vähennys tehdään ainoastaan sarjapistemenetyksen yhteydessä – ei automaattisesti ajan kulumisen perusteella, ellei erikseen toisin päätetä.
 
----
-
 ## 9.3 Rangaistukset rikotun kuljettajan hyväksi
 
 Jos tuomaristo toteaa, että kuljettaja on kärsinyt merkittävää haittaa toisen kuljettajan rikkomuksen seurauksena, huomioidaan tämä rangaistuksen mitoituksessa. Tuomaristolla on käytössään seuraavat keinot:
@@ -226,16 +208,14 @@ Jos tuomaristo toteaa, että kuljettaja on kärsinyt merkittävää haittaa tois
 ### Sarjapistemenetyksen korottaminen 
 rikkomuksen vakavuus ja sen vaikutus rikotun kuljettajan kilpailuasemaan otetaan huomioon kokonaisharkinnassa
 ### Aikasanktio tai sijoituksen menetys
-mikäli kuljettaja on rikkonut sääntöjä tahallisesti estääkseen kanssakilpailijaa saavuttamasta tarvittavaa sijoitusta tietyssä kilpailussa, voidaan rikkovaa kuljettajaa rangaista myös aikasakolla tai kisasijoituksen menettämisellä
+mikäli kuljettaja on rikkonut sääntöjä tahallisesti estääkseen kanssakilpailijaa saavuttamasta tarvittavaa sijoitusta tietyssä kilpailussa, voidaan rikkovaa kuljettajaa rangaista myös aikasakolla tai kisasijoituksen menettämisellä.
 Kaikki toimenpiteet perustuvat tuomariston kokonaisharkintaan.
 
 Korotettua rangaistusta ei sovelleta tilanteissa, joissa rikottu kuljettaja on myötävaikuttanut onnettomuuteen.
 
----
-
 ## 9.4 Rikkomusten luokittelu ja pistetaulukko
 
-Rikkomukset jaetaan kahteen pääluokkaan vakavuuden mukaan. Luokittelu on suuntaa antava, ja sama rikkomus voidaan arvioida eri vakavuusluokkaan tilanteesta riippuen, joiden puitteissa tuomaristo harkitsee jokaisen tapauksen yksilöllisesti.
+Rikkomukset jaetaan kahteen pääluokkaan vakavuuden mukaan. Luokittelu on suuntaa antava, ja sama rikkomus voidaan arvioida eri vakavuusluokkaan tilanteesta riippuen minkä puitteissa tuomaristo harkitsee jokaisen tapauksen yksilöllisesti.
 
 Tuomariston jäsenet päättävät jakamistaan pisteistä itsenäisesti, lopullisen pisteiden ollessa annettujen rangaistuspisteiden keskiarvo alaspäin pyöristettynä.
 Pisteiden jaossa otetaan huomioon kilpailun ajankohta. Ensimmäisen kierroksen rikkeistä rangaistuspisteet annetaan pääsääntöisesti kaksinkertaisena.
@@ -271,8 +251,6 @@ Aggressiiviseksi ajoksi katsotaan tilanteet, joissa kuljettaja on toiminut harki
 | Ratarajojen ulkopuolelta ohittaminen                  | 6–8                       |
 
 Tuomaristo voi korottaa rangaistuspisteitä RP-haarukoiden ulkopuolelle, mikäli rikkomus on selkeästi tahallinen, toistuu kauden aikana tai aiheuttaa poikkeuksellisen vakavan onnettomuuden. Vastaavasti pisteitä voidaan alentaa, jos asiaan liittyy lieventäviä seikkoja kuten sijoituksen takaisinanto.
-
----
 
 ## 9.5 Protestit ja päätösprosessi
 
@@ -376,8 +354,6 @@ Teknisten ongelmen sattuessa seuraa kilpailun voice- ja teksti-kanavia Discordis
 ## 12. Ilmoittautuminen
 
 Sarjoihin ja kilpailuihin ilmoittaudutaan simracing.fi -sivuston kautta.
-
----
 
 ## 13. Pistejärjestelmä
 
