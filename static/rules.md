@@ -36,7 +36,28 @@ Radalla ajaessa on huomioitava myös muut kuljettajat.
 
 Toisen tahallinen törkeä estäminen tai vaaratilanteen aiheuttaminen ei ole sallittua.
 
+Kuljettaja on aina vastuussa auton hallinnasta. Auton hallinnan menettäminen ei poista vastuuta aiheutuneesta tilanteesta.
+
 Ohitustilanteissa sijoituksen puolustaminen on sallittua tavallisin ratasäännöin (ks. kohta “ohittaminen”).
+
+Tahallinen tai perusteeton hidastaminen ajolinjalla, joka aiheuttaa vaaratilanteen (ns. brake check), on kielletty.
+
+Kuljettaja ei saa ajaa epänormaalin hitaasti ilman perusteltua syytä siten, että siitä aiheutuu vaaraa muille kilpailijoille.
+
+Jos kuljettaja joutuu pysäyttämään autonsa radan varteen, se tulee tehdä siten, ettei auto aiheuta vaaraa tai estettä muille kilpailijoille.
+
+Jos auto on vaurioitunut siten, ettei sillä voi ajaa turvallisesti, kilpailijan tulee keskeyttää tai siirtyä varikolle.
+
+## 3.1 lähtötilanteet
+
+Kilpailun lähdössä ja mahdollisissa uusintalähdöissä kuljettajien tulee säilyttää ennakoitava ajotapa.
+
+Kiellettyä:
+- äkillinen kiihdytys tai jarrutus ilman syytä
+- reaktiivinen ajolinjan muutos
+- muu toiminta, joka aiheuttaa vaaratilanteen
+
+Ensimmäinen kierros katsotaan erityistilanteeksi, jossa kuljettajilta edellytetään korostettua varovaisuutta.
 
 ---
 
@@ -57,17 +78,31 @@ Havaintokuvia ratarajojen ylityksestä.
 
 Mahdolliset ratarajojen poikkeukset ilmoitetaan kilpailijaohjeessa.
 
+Kilpailija ei saa saavuttaa pysyvää tai merkittävää hyötyä radan ulkopuolisen alueen käytöstä.
+
+Toistuvasta ratarajojen rikkomisesta ilman yksittäistä selkeää hyötyä ovat myös rangaistavia.
+
+Radan ulkopuolista aluetta saa käyttää vain vaaratilanteen välttämiseksi.
+
+Kuljettajan tulee palata ajoradan ulkopuolelta takaisin radalle noudattaen erityistä varovaisuutta. Väistämisvelvollisuus on aina radalle palaavalla kuljettajalla.
+
+Kilparadalla ajaminen ajosuuntaa vastaan on kielletty.
+
+Varikolta radalle palaavan kuljettajan tulee noudattaa erityistä varovaisuutta. Väistämisvelvollisuus on aina radalle palaavalla kuljettajalla.
+
+Varikolle tullessa ja sieltä poistuttaessa radan ja varikkoalueen erottavia viivoja ei saa ylittää.
+
 ---
 
 ## 5. Ohittaminen
 
 Kilpailun aikana kuljettaja saa käyttää koko radan leveyttä, ohitustilannetta lukuunottamatta.
 
-Edellä ajavan kuljettajan tulee sallia ohitus sääntöjen puitteissa, mutta hänellä on myös oikeus puolustaa ajolinjaansa.
+Edellä ajavan kuljettajan ei tarvitse väistää, mutta hän ei saa estää ohitusta sääntöjen vastaisesti.
 
 Kuljettajan katsotaan olevan rinnalla kun ohittavan auton eturenkaan akseli on saavuttanut ohitettavan auton takarenkaan akselin. Tällöin ohitettavan kuljettajan on pidettävä ajolinja sellaisena että ohittava auto mahtuu radalle. Edellä ajava auto saa kuitenkin valita ajolinjansa edellisen rajoituksen puitteissa.
-
-Mahdollisen törmäyksen syyllinen päätetään jätetyn tilan perusteella.
+Rinnakkain ajettaessa molemmille kuljettajille on jätettävä riittävästi tilaa radalla.
+Mahdollisen törmäyksen syyllinen päätetään jätetyn tilan perusteella. Arvioinnissa huomioidaan myös ohituksen realistisuus ja kuljettajien toiminta ennen kontaktia.
 
 Kiellettyä:
 
@@ -79,9 +114,8 @@ Kiellettyä:
 
 Kilpailijat saavat käyttää vain kilparataa ohituksen aikana.
 Ajolinjan muutos ei saa olla äkillinen tai vaaratilanteen aiheuttava.
-Ajopaikan puolustaminen on sallittua autojen rinnakkaisuus huomioiden.
 Ajolinjan peittäminen/valinta on tehtävä ennen jarrutusta.
-
+Ajolinjan muuttaminen puolustustilanteessa on sallittu kerran suoralla.
 ---
 
 ## 6. Lippusäännöt
@@ -96,6 +130,8 @@ Takaa tulevan ohitusta on helpotettava siten, ettei hänen nopeutensa kärsi.
 <img src="./images/yellowFlag.png">
 Valmistaudu väistämään tai pysähtymään.  
 Ohittaminen on sallittua, mutta törmäys- tai muu vaaratilanne johtaa korotettuun rangaistukseen.
+
+Keltaisen lipun alueella saavutettu merkittävä hyöty voidaan määrätä palautettavaksi.
 
 ### Musta lippu
 
@@ -114,7 +150,7 @@ Kuljettajilta odotetaan:
 - reilua toimintaa ja muiden kuljettajien kunnioittamista
 - virheiden hyvittämistä ja anteeksipyyntöä heti virheen tai kilpailun jälkeen
 
-Sijoituksen palauttaminen voidaan huomioida mahdollisen rangaistuksen lieventävänä tekijänä.
+Sijoituksen palauttaminen voidaan huomioida mahdollisen rangaistuksen lieventävänä tekijänä tai rangaistus voidaan jättää määräämättä.
 Herrasmiessääntö on FiSUn tärkeimpiä sääntöjä. Kiistat jäävät radalle ja mahdolliset hampaankoloon jäävät asiat selvitetään viimeistään ennen seuraavaa kisaa. Tuomaristo auttaa kilpailun jälkeen epäselvissä tilanteissa.
 
 ---
@@ -325,8 +361,10 @@ Kilpailun jatkaminen varikolle hyppäämisen jälkeen ei ole kiellettyä, mutta 
 
 ## 11. Tekniset ongelmat
 
+Teknisten ongelmien aiheuttamat tilanteet arvioidaan tapauskohtaisesti.
+Mikäli useampi kuljettaja keskeyttää samalla kierroksella, heidän keskinäinen järjestyksensä määräytyy lähtökohtaisesti simulaattorin tulosjärjestyksen perusteella, ellei tuomaristo toisin päätä.
 Kilpailu tai aika-ajo voi päättyä ennenaikaisesti esimerkiksi palvelinongelman vuoksi, jolloin kaikki tai suuri osa kuljettajista ei voi jatkaa kilpailua.
-Toimenpiteet keskeytyneen session vuoksi.
+Toimenpiteet keskeytyneen session vuoksi. Taulukossa on esitetty kilpailun ja aika-ajon teknisten ongelmien yleiset toimenpiteet.
 
 | Suoritettu | Toimenpide                                                                                                         |
 |------------|--------------------------------------------------------------------------------------------------------------------|
