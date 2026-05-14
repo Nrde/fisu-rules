@@ -36,7 +36,7 @@
     }
   }
 
-  let manualHash = $state(!!window.location.hash);
+  let manualHash = $state(false);
   // Runs once on mount — handles direct URL like /#9-1
   $effect(() => {
       const hash = window.location.hash.slice(1);
@@ -149,7 +149,7 @@
     </nav>
 
     <div class="sidebar__footer">
-      <div class="version-tag">v2026</div>
+      <div class="version-tag">{data.rulesVersion}</div>
       <p>Sääntöjä voidaan tarkentaa perustellusta syystä ennen kilpailun alkua.</p>
     </div>
   </aside>
