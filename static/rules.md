@@ -88,6 +88,32 @@ Varikolta radalle palaavan kuljettajan tulee noudattaa erityistä varovaisuutta.
 
 Varikolle tullessa ja sieltä poistuttaessa radan ja varikkoalueen erottavia viivoja ei saa ylittää.
 
+## 4.1 Rata-rajojen rikkomiminen
+
+Rata-rajojen rikkomisesta hyötyminen on kielletty ja niitä valvotaan joko automaattisesti pelin tai cut-pluginin valvomina.
+
+Kuljettajan saavuttaessa hyötyä poistuessaan radalta kilpailun säännöissä ilmoitetulla tavalla tulee hänen hidastaa saavutetun edun palauttamiseksi. 
+Epäselvissä tapauksissa saavutetun hyödyn palauttamisen todistustaakka on kuljettajalla.
+Aika ajon nopeimmalla kierroksella oikominen aiheuttaa kiellon osallistua seuraavan kilpailun aika-ajoon.
+### 4.1.1 Rata-raja rangaistukset
+Toistuvista oikomisista lisätään ratarajoja rikkoneen kuljettajan kilpailun kestoon aikaa seuraavan taulukon mukaisesti.
+| Oikomisia | Rangaistus        |
+|-----------|-------------------|
+| > 15%     |5 sekuntia         |
+| > 30%     |10 sekuntia        |
+| > 50%     | DQ                |
+| AA rike   | Aika-ajokielto    |
+
+Esimerkiksi:
+30 kierroksen kilpailu, kuljettaja oikonut 7 kertaa:
+ 7/30 x 100 = 23,3% -> rangaistus 5 sekuntia
+35 kierroksen kilpailu, kuljettaja oikonut 15 kertaa:
+ 15/35 x 100 = 42,9% -> rangaistus 10 sekuntia
+31 kierroksen kilpailu, kuljettaja oikonut 16 kertaa:
+ 16/31 x 100 = 51,6% -> rangaistus DQ
+
+Tuomaristolla on mahdollisuus kohtuullistaa tai tiukentaa rangaistuksia esimerkiksi radan luonteen tai mahdollisten törkeiden oikomisien kohdalla. 
+
 ## 5. Ohittaminen
 
 Kilpailun aikana kuljettaja saa käyttää koko radan leveyttä, ohitustilannetta lukuunottamatta.
