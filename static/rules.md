@@ -90,7 +90,7 @@ Varikolle tullessa ja sieltä poistuttaessa radan ja varikkoalueen erottavia vii
 
 ## 4.1 Rata-rajojen rikkominen
 
-Rata-rajojen rikkomisesta hyötyminen on kielletty ja niitä valvotaan joko automaattisesti pelin tai cut-pluginin valvomina.
+Rata-rajojen rikkomisesta hyötyminen on kielletty ja niitä valvotaan joko automaattisesti pelin tai cut-pluginin avulla.
 
 Kuljettajan saavuttaessa hyötyä poistuessaan radalta kilpailun säännöissä ilmoitetulla tavalla tulee hänen hidastaa saavutetun edun palauttamiseksi. 
 Epäselvissä tapauksissa saavutetun hyödyn palauttamisen todistustaakka on kuljettajalla.
