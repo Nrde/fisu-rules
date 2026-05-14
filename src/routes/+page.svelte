@@ -36,6 +36,7 @@
     }
   }
 
+  let manualHash = $state(!!window.location.hash);
   // Runs once on mount — handles direct URL like /#9-1
   $effect(() => {
       const hash = window.location.hash.slice(1);
@@ -43,6 +44,8 @@
           activeId = hash;
           tick().then(() => {
               document.getElementById(hash)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              // Clear the guard after scrolling settles
+              setTimeout(() => { manualHash = false; }, 1000);
           });
       }
   });
@@ -52,10 +55,10 @@
     const observer = new IntersectionObserver(
       (entries) => {
         for (const entry of entries) {
-          if (entry.isIntersecting && !isSearching) {
-            activeId = entry.target.id;
-            history.replaceState(null, '', `#${entry.target.id}`);
-          }
+            if (entry.isIntersecting && !isSearching && !manualHash) {
+                activeId = entry.target.id;
+                history.replaceState(null, '', `#${entry.target.id}`);
+            }
         }
       },
       { rootMargin: '-15% 0px -75% 0px' }
