@@ -33,10 +33,10 @@ export function parseSections(markdown) {
       flush();
       const title = heading[1].trim();
       // Extract leading number like "1.", "9.1", "9.1.1"
-      const numMatch = title.match(/^([\d.]+)\.?\s+(.+)/);
+      const numMatch = title.match(/^([\d.]+?)\.?\s+(.+)/);
       const number = numMatch ? numMatch[1] : '';
       const label = numMatch ? numMatch[2] : title;
-      const id = 'section-' + (number || label).replace(/\./g, '-').replace(/[^a-z0-9-]/gi, '').toLowerCase();
+      const id = number ? number.split('.').join('-') : label.replace(/[^a-z0-9]/gi, '-').toLowerCase();
       currentHeading = { id, number, title: label, fullTitle: title, level: h1 ? 1 : 2 };
     } else {
       if (currentHeading) {

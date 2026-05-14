@@ -17,6 +17,7 @@
 
   function scrollTo(id) {
     activeId = id;
+    history.replaceState(null, '', `#${id}`);
     sidebarOpen = false;
     tick().then(() => {
       const el = document.getElementById(id);
@@ -35,6 +36,17 @@
     }
   }
 
+  // Runs once on mount — handles direct URL like /#9-1
+  $effect(() => {
+      const hash = window.location.hash.slice(1);
+      if (hash) {
+          activeId = hash;
+          tick().then(() => {
+              document.getElementById(hash)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          });
+      }
+  });
+
   $effect(() => {
     if (typeof IntersectionObserver === 'undefined') return;
     const observer = new IntersectionObserver(
@@ -42,6 +54,7 @@
         for (const entry of entries) {
           if (entry.isIntersecting && !isSearching) {
             activeId = entry.target.id;
+            history.replaceState(null, '', `#${entry.target.id}`);
           }
         }
       },
