@@ -106,7 +106,7 @@ Mikäli oikominen tapahtuu nopeimmalla kierroksella eikä kuljettaja ehdi reagoi
 
 ### 4.1.1 Rata-raja rangaistukset
 Toistuvista oikomisista lisätään ratarajoja rikkoneen kuljettajan kilpailun kestoon aikaa seuraavan taulukon mukaisesti.
-| Oikomisia | Rangaistus        |
+| Oikomisia kierroksilla | Rangaistus        |
 |-----------|-------------------|
 | > 15%     | 5 sekuntia        |
 | > 30%     | 10 sekuntia       |
@@ -114,6 +114,8 @@ Toistuvista oikomisista lisätään ratarajoja rikkoneen kuljettajan kilpailun k
 | AA rike   | Aika-ajokielto    |
 
 Esimerkiksi:
+31 kierroksen kilpailu, kuljettaja oikonut 4 kertaa:
+4/31 x 100 = 12,9% -> ei rangaistusta
 30 kierroksen kilpailu, kuljettaja oikonut 7 kertaa:
  7/30 x 100 = 23,3% -> rangaistus 5 sekuntia
 35 kierroksen kilpailu, kuljettaja oikonut 15 kertaa:
@@ -150,12 +152,12 @@ Ajolinjan muuttaminen puolustustilanteessa on sallittu kerran suoralla.
 
 ### Sininen lippu
 
-<img src="./images/blueFlag.png">
+<img alt="sininen lippu" src="./images/blueFlag.png">
 Takaa tulevan ohitusta on helpotettava siten, ettei hänen nopeutensa kärsi.
 
 ### Keltainen lippu
 
-<img src="./images/yellowFlag.png">
+<img alt="keltainen lippu" src="./images/yellowFlag.png">
 Valmistaudu väistämään tai pysähtymään.  
 Ohittaminen on sallittua, mutta törmäys- tai muu vaaratilanne johtaa korotettuun rangaistukseen.
 
@@ -163,7 +165,7 @@ Keltaisen lipun alueella saavutettu merkittävä hyöty voidaan määrätä pala
 
 ### Musta lippu
 
-<img src="./images/blackFlag.png">
+<img alt="musta lippu" src="./images/blackFlag.png">
 Kuljettaja on poistettu kilpailusta.  
 Hänen tulee väistää muita kilpailijoita.
 
@@ -378,11 +380,11 @@ Mikäli useampi kuljettaja keskeyttää samalla kierroksella, heidän keskinäin
 Kilpailu tai aika-ajo voi päättyä ennenaikaisesti esimerkiksi palvelinongelman vuoksi, jolloin kaikki tai suuri osa kuljettajista ei voi jatkaa kilpailua.
 Toimenpiteet keskeytyneen session vuoksi. Taulukossa on esitetty kilpailun ja aika-ajon teknisten ongelmien yleiset toimenpiteet.
 
-| Suoritettu | Toimenpide                                                                                                         |
-|------------|--------------------------------------------------------------------------------------------------------------------|
-| 75–100 %   | Kilpailu ja aa päätetään, aika-ajosta käytetään viimeistä serverille tallentunutta tilannetta                      |
-| 50–75 %    | Kilpailu päätetään, aa uusitaan. Kilpailun pisteet puolitetaan, aika-ajo uusitaan mahdollisesti lyhennettynä       |
-| 0–50 %     | Kilpailu ja aa uusitaan mahdollisuuksien mukaan täysimittaisena. Mahdollista ajaa sessio lyhennettynä|
+| Suoritettu | Toimenpide                                                                                                   |
+|------------|--------------------------------------------------------------------------------------------------------------|
+| 75–100 %   | Kilpailu ja aa päätetään, aika-ajosta käytetään viimeistä serverille tallentunutta tilannetta                |
+| 50–75 %    | Kilpailu päätetään, aa uusitaan. Kilpailun pisteet puolitetaan, aika-ajo uusitaan mahdollisesti lyhennettynä |
+| 0–50 %     | Kilpailu ja aa uusitaan mahdollisuuksien mukaan täysimittaisena. Mahdollista ajaa sessio lyhennettynä        |
 
 Teknisten ongelmen sattuessa seuraa kilpailun voice- ja teksti-kanavia Discordissa tai pelin sisäisessä chatissä.
 
