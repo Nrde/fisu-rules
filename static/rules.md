@@ -83,7 +83,7 @@ Varikolta radalle palaavan kuljettajan tulee noudattaa erityistä varovaisuutta.
 
 Varikolle tullessa ja sieltä poistuttaessa radan ja varikkoalueen erottavia viivoja ei saa ylittää.
 
-## 4.1 Rata-rajojen rikkominen
+## 4.1 Ratarajojen rikkominen
 
 Ratarajojen rikkomisesta hyötyminen on kielletty ja niitä valvotaan automaattisesti pelin tai cut-pluginin avulla.
 
