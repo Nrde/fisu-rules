@@ -4,7 +4,7 @@
 
   let { data } = $props();
 
-  const allSections = parseSections(data.markdown);
+  const allSections = $derived(parseSections(data.markdown));
 
   let query = $state('');
   let activeId = $state(allSections[0]?.id ?? '');
@@ -93,8 +93,7 @@
   <aside class="sidebar" class:open={sidebarOpen}>
     <div class="sidebar__logo">
       <div class="logo-mark">
-        <img src="./images/fisu_logo_perus_pieni.png">
-        <!-- <span class="logo-accent">F</span><span>I</span><span class="logo-accent">SU</span> -->
+        <img alt="pieni FiSU logo" src="./images/fisu_logo_perus_pieni.png">
       </div>
       <div class="logo-text">
         <div class="logo-text__main">Kilpailusäännöt</div>
