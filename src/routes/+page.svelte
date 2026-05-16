@@ -3,11 +3,14 @@
   import { tick } from 'svelte';
 
   let { data } = $props();
-
   const allSections = $derived(parseSections(data.markdown));
+  const rulesVersion = $derived(data.rulesVersion);
 
   let query = $state('');
-  let activeId = $state(allSections[0]?.id ?? '');
+  let activeId = $state('');
+  $effect(() => {
+      if (!activeId && allSections.length) activeId = allSections[0].id;
+  });
   let sidebarOpen = $state(false);
   let searchFocused = $state(false);
 
