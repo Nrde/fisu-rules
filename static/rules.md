@@ -64,21 +64,16 @@ Kilpailijan on tunnistettava seuraavat radan osat:
 1. Rata-alue
 2. Varikko-alue
 
-- Vähintään kaksi rengasta on oltava rata-alueella
-- Sisämutkan leikkaaminen on kielletty
-- Ulostulossa voidaan sallia leveämpi linja kilpailukohtaisesti
-
 Havaintokuvia ratarajojen ylityksestä.
 
 ![Ratarajat havainnekuva](./images/ratarajat.png)
 
-Mahdolliset ratarajojen poikkeukset ilmoitetaan kilpailijaohjeessa.
+- Yleisesti rata-alue on radan reunojen valkoisten viivojen sisäpuolella
+- Vähintään kaksi rengasta on oltava rata-alueella
+- Sisämutkan leikkaaminen on kielletty
+- Ulostulossa voidaan sallia leveämpi linja kilpailukohtaisesti
 
-Kilpailija ei saa saavuttaa pysyvää tai merkittävää hyötyä radan ulkopuolisen alueen käytöstä.
-
-Toistuvasta ratarajojen rikkomisesta ilman yksittäistä selkeää hyötyä ovat myös rangaistavia.
-
-Radan ulkopuolista aluetta saa käyttää vain vaaratilanteen välttämiseksi.
+Mahdolliset ratarajojen poikkeukset ilmoitetaan kilpailijaohjeessa. Esimerkiksi kanttareiden kuuluminen rata-alueeseen.
 
 Kuljettajan tulee palata ajoradan ulkopuolelta takaisin radalle noudattaen erityistä varovaisuutta. Väistämisvelvollisuus on aina radalle palaavalla kuljettajalla.
 
