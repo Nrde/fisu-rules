@@ -90,17 +90,26 @@ Varikolle tullessa ja sieltä poistuttaessa radan ja varikkoalueen erottavia vii
 
 ## 4.1 Rata-rajojen rikkominen
 
-Rata-rajojen rikkomisesta hyötyminen on kielletty ja niitä valvotaan joko automaattisesti pelin tai cut-pluginin avulla.
+Ratarajojen rikkomisesta hyötyminen on kielletty ja niitä valvotaan automaattisesti pelin tai cut-pluginin avulla.
 
-Kuljettajan saavuttaessa hyötyä poistuessaan radalta kilpailun säännöissä ilmoitetulla tavalla tulee hänen hidastaa saavutetun edun palauttamiseksi. 
-Epäselvissä tapauksissa saavutetun hyödyn palauttamisen todistustaakka on kuljettajalla.
-Aika ajon nopeimmalla kierroksella oikominen aiheuttaa kiellon osallistua seuraavan kilpailun aika-ajoon.
+Ratarajojen rikkominen (“oikominen”) on sallittua vain tilanteissa joissa radalla pysyminen ei ole ollut kohtuudella mahdollista esimerkiksi ajovirheen, auton hallinnan menetyksen tai toisen kilpailijan väistämisen vuoksi. Tällaisestakaan tilanteesta ei kuitenkaan saa jäädä ajallista tai sijoituksellista hyötyä.
+
+Kuljettajan tulee antaa mahdollinen hyöty takaisin välittömästi ja tavalla joka on tuomariston näkökulmasta selkeästi havaittavissa. Pelkkä kierrosajan tai sektorideltan palautuminen normaalitasolle ei välttämättä riitä, mikäli tilanteesta ei voida selvästi todeta kuljettajan aidosti luopuneen saavutetusta muusta hyödystä, kuten paremmasta ajolinjasta tai ulostulonopeudesta.
+
+Kuljettajan tulee hidastaa tai muuten menettää aikaa tavalla joka on helposti todettavissa esimerkiksi videolta, sektoridatasta tai telemetriasta. Epäselvissä tilanteissa vastuu hyödyn takaisin antamisen osoittamisesta on kuljettajalla.
+
+Toistuva tai systemaattinen oikominen voidaan rangaista erikseen myös silloin, kun yksittäisten tilanteiden hyöty arvioidaan vähäiseksi.
+
+Aika-ajon nopeimmalla kierroksella tapahtunut oikominen aiheuttaa kiellon osallistua seuraavan kilpailun aika-ajoon.
+
+Mikäli oikominen tapahtuu nopeimmalla kierroksella eikä kuljettaja ehdi reagoida tilanteeseen ajoissa, kuljettajan tulee ilmoittaa tilanteesta tuomaristolle ennen kilpailulähdön starttia. Tämä voidaan huomioida mahdollisena lieventävänä tekijänä mahdollista rangaistusta arvioitaessa.
+
 ### 4.1.1 Rata-raja rangaistukset
 Toistuvista oikomisista lisätään ratarajoja rikkoneen kuljettajan kilpailun kestoon aikaa seuraavan taulukon mukaisesti.
 | Oikomisia | Rangaistus        |
 |-----------|-------------------|
-| > 15%     |5 sekuntia         |
-| > 30%     |10 sekuntia        |
+| > 15%     | 5 sekuntia        |
+| > 30%     | 10 sekuntia       |
 | > 50%     | DQ                |
 | AA rike   | Aika-ajokielto    |
 
