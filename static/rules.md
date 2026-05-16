@@ -79,7 +79,7 @@ Kuljettajan tulee palata ajoradan ulkopuolelta takaisin radalle noudattaen erity
 
 Kilparadalla ajaminen ajosuuntaa vastaan on kielletty.
 
-Varikolta radalle palaavan kuljettajan tulee noudattaa erityistä varovaisuutta. Väistämisvelvollisuus on aina radalle palaavalla kuljettajalla.
+Varikolta radalle palaavan kuljettajan tulee noudattaa erityistä varovaisuutta. Väistämisvelvollisuus on aina radalle palaavalla kuljettajalla, ellei varikolta paluu ole suoraan ajolinjalle. Mahdollisista ratakohtaisista poikkeuksista tiedotetaan ennen kilpailua tarvittaessa.
 
 Varikolle tullessa ja sieltä poistuttaessa radan ja varikkoalueen erottavia viivoja ei saa ylittää.
 
